@@ -1,0 +1,75 @@
+body {
+  background: #fafaff;
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  padding: 50px;
+  padding-top: 10px;
+  margin: 0px;
+  border: 150px solid #5f506b;
+  border-top: 0px;
+}
+h1 {
+  background: #aaa1c8;
+  padding: 25px 50px;
+  text-align: center;
+  color: #453643;
+  border-radius: 15px;
+  font-size: 1.5em;
+}
+p {
+  background-color: #fafaff;
+  color: #5e548e;
+}
+
+h3 {
+  background-color: #fafaff;
+  padding: 0px 0px 0px 50px;
+  color: #fca311;
+}
+
+ul {
+  background-color: #fafaff;
+  padding: 0px 50px 0px 70px;
+  color: #012a36;
+}
+
+label {
+  background-color: #fafaff;
+  padding: 0px 0px 25px 50px;
+  color: #5f506b;
+}
+
+span {
+  margin: 0px 0px 0px 50px;
+  color: #5f506b;
+}
+
+#signup {
+  color: #000;
+
+  background: #7161ef;
+  margin: 0px 0px 0px 170px;
+  height: 50px;
+  border-radius: 10px;
+}
+
+#referal {
+  padding: 0px 50px 0px 50px;
+}
+
+input {
+  border-color: #2c2a4a;
+  border-radius: 5px;
+  margin: 0px 550px 0px 0px;
+}
+
+select {
+  border-radius: 5px;
+  margin: 0px 624px 0px 0px;
+}
+
+h2 {
+  color: #453643;
+}
